@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=heebo&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  direction: rtl;
+}
+body {
+  font-family: "heebo", sans-serif;
+}
